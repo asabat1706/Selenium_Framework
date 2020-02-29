@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="58" started-at="2020-02-24T20:27:28Z" finished-at="2020-02-24T20:27:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="58" started-at="2020-02-24T20:27:28Z" finished-at="2020-02-24T20:27:28Z">
+      <class name="BasicFramework.TestClass3">
+        <test-method status="PASS" signature="testM()[pri:0, instance:BasicFramework.TestClass3@1e67b872]" name="testM" duration-ms="0" started-at="2020-02-25T01:57:28Z" finished-at="2020-02-25T01:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testM -->
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:BasicFramework.TestClass3@1e67b872]" name="testMethod" duration-ms="0" started-at="2020-02-25T01:57:28Z" finished-at="2020-02-25T01:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- BasicFramework.TestClass3 -->
+      <class name="BasicFramework.TestClass2">
+        <test-method status="PASS" signature="deleteMethod()[pri:0, instance:BasicFramework.TestClass2@5d624da6]" name="deleteMethod" duration-ms="0" started-at="2020-02-25T01:57:28Z" finished-at="2020-02-25T01:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMethod -->
+        <test-method status="PASS" signature="updateMethod()[pri:0, instance:BasicFramework.TestClass2@5d624da6]" name="updateMethod" duration-ms="1" started-at="2020-02-25T01:57:28Z" finished-at="2020-02-25T01:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateMethod -->
+      </class> <!-- BasicFramework.TestClass2 -->
+      <class name="BasicFramework.TestClass1">
+        <test-method status="PASS" signature="getMethod()[pri:0, instance:BasicFramework.TestClass1@62043840]" name="getMethod" duration-ms="10" started-at="2020-02-25T01:57:28Z" finished-at="2020-02-25T01:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod -->
+        <test-method status="PASS" signature="postMethod()[pri:0, instance:BasicFramework.TestClass1@62043840]" name="postMethod" duration-ms="1" started-at="2020-02-25T01:57:28Z" finished-at="2020-02-25T01:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethod -->
+      </class> <!-- BasicFramework.TestClass1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
